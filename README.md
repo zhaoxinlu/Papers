@@ -3,6 +3,8 @@
 My Deep Learning Papers Notes.
 ## Contents
 #### Natural Language Processing
+* [Investigation of Recurrent-Neural-Network Architectures and Learning Methods for Spoken Language Understanding(2013)](https://github.com/zhaoxinlu/Papers/blob/master/Natural%20Language%20Processing/Task-Bot-NLU/(2013)Investigation%20of%20Recurrent-Neural-Network%20Architectures%20and%20Learning%20Methods%20for%20Spoken%20Language%20Understanding.pdf)
+* [Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding(2015)](https://github.com/zhaoxinlu/Papers/blob/master/Natural%20Language%20Processing/Task-Bot-NLU/(2015)Using%20Recurrent%20Neural%20Networks%20for%20Slot%20Filling%20in%20Spoken%20Language%20Understanding.pdf)
 * [Attention-Based Recurrent Neural Network Models for Joint Intent Detection(2016)](https://github.com/zhaoxinlu/Papers/blob/master/Natural%20Language%20Processing/Task-Bot-NLU/(2016-b)Attention-Based%20Recurrent%20Neural%20Network%20Models%20for%20Joint%20Intent%20Detection.pdf)
 #### Computer Vision
 * [AlexNet--ImageNet Classification with Deep Convolutional Neural Networks (2012)](https://github.com/zhaoxinlu/Papers/blob/master/Computer%20Vision/1%E2%80%94AlexNet%E2%80%94%E2%80%94imagenet-classification-with-deep-convolutional-neural-networks.pdf)
